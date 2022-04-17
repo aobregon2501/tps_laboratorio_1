@@ -15,7 +15,6 @@ float validacionFloat()
 	float numeroFloat;
 
 	fflush(stdin);
-	ingresoValido = scanf("%f", &numeroFloat);
 
 	while(!ingresoValido || numeroFloat <= 0)
 	{

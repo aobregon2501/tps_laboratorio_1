@@ -44,8 +44,8 @@ int subMenu(float precioAerolineas, float precioLATAM)
 	int opcionSubMenu;
 	int opcionValidaSubMenu;
 
-	printf("1. Precio vuelo Aerolíneas $(%.2f)\n", precioAerolineas);
-	printf("2. Precio vuelo Latam $(%.2f)\n", precioLATAM);
+	printf("1. Precio vuelo Aerolíneas (%.2f)\n", precioAerolineas);
+	printf("2. Precio vuelo Latam(%.2f)\n", precioLATAM);
 	printf("3. Volver al menu principal\n");
 
 	printf("Ingrese opción: ");

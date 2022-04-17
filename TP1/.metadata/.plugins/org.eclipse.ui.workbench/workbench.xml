@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="24" version="2.0">
+<workbench progressCount="23" version="2.0">
 <workbenchAdvisor/>
 <window height="600" width="1024" x="0" y="0">
 <fastViewData fastViewLocation="1024"/>
@@ -44,19 +44,19 @@
 </editorArea>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="mainTP1.c" partName="mainTP1.c" path="C:/Users/Alumno/Desktop/tps_laboratorio_1/TP1/mainTP1/src/mainTP1.c" title="mainTP1.c" tooltip="mainTP1/src/mainTP1.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/mainTP1/src/mainTP1.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="763" selectionTopPixel="561"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1363" selectionTopPixel="1989"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="menusTP1.h" partName="menusTP1.h" path="C:/Users/Alumno/Desktop/tps_laboratorio_1/TP1/mainTP1/src/menusTP1.h" title="menusTP1.h" tooltip="mainTP1/src/menusTP1.h" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/mainTP1/src/menusTP1.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="271" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="283" selectionTopPixel="0"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="menusTP1.c" partName="menusTP1.c" path="C:/Users/Alumno/Desktop/tps_laboratorio_1/TP1/mainTP1/src/menusTP1.c" title="menusTP1.c" tooltip="mainTP1/src/menusTP1.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/mainTP1/src/menusTP1.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1041" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="977" selectionTopPixel="596"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="calculosTP1.h" partName="calculosTP1.h" path="C:/Users/Alumno/Desktop/tps_laboratorio_1/TP1/mainTP1/src/calculosTP1.h" title="calculosTP1.h" tooltip="mainTP1/src/calculosTP1.h" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/mainTP1/src/calculosTP1.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="174" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="700" selectionTopPixel="239"/>
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="calculosTP1.c" partName="calculosTP1.c" path="C:/Users/Alumno/Desktop/tps_laboratorio_1/TP1/mainTP1/src/calculosTP1.c" title="calculosTP1.c" tooltip="mainTP1/src/calculosTP1.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/mainTP1/src/calculosTP1.c"/>
@@ -64,11 +64,11 @@
 </editor>
 <editor id="org.eclipse.cdt.ui.editor.CEditor" name="validacionesTP1.h" partName="validacionesTP1.h" path="C:/Users/Alumno/Desktop/tps_laboratorio_1/TP1/mainTP1/src/validacionesTP1.h" title="validacionesTP1.h" tooltip="mainTP1/src/validacionesTP1.h" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/mainTP1/src/validacionesTP1.h"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="193" selectionTopPixel="0"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="262" selectionTopPixel="154"/>
 </editor>
 <editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="validacionesTP1.c" partName="validacionesTP1.c" path="C:/Users/Alumno/Desktop/tps_laboratorio_1/TP1/mainTP1/src/validacionesTP1.c" title="validacionesTP1.c" tooltip="mainTP1/src/validacionesTP1.c" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/mainTP1/src/validacionesTP1.c"/>
-<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="547" selectionTopPixel="95"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="130" selectionTopPixel="0"/>
 </editor>
 </editors>
 <views>
@@ -84,7 +84,7 @@
 <expanded>
 <category IMemento.internal.id="Warnings"/>
 </expanded>
-<columnWidths org.eclipse.ui.ide.locationField="64" org.eclipse.ui.ide.markerType="94" org.eclipse.ui.ide.pathField="124" org.eclipse.ui.ide.resourceField="94" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
+<columnWidths org.eclipse.ui.ide.locationField="64" org.eclipse.ui.ide.markerType="94" org.eclipse.ui.ide.pathField="124" org.eclipse.ui.ide.resourceField="140" org.eclipse.ui.ide.severityAndDescriptionField="434"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
 <visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
@@ -304,10 +304,10 @@
 <perspective_action id="org.eclipse.team.ui.TeamSynchronizingPerspective"/>
 <hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
 <hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
-<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
 <view id="org.eclipse.ui.views.ProblemView"/>
 <view id="org.eclipse.ui.views.TaskList"/>
 <view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer"/>
 <view id="org.eclipse.ui.views.PropertySheet"/>
 <fastViewBars>
 <fastViewBar fastViewLocation="131072" id="topRight" orientation="512" selectedTabId="org.eclipse.ui.views.ContentOutline" style="0">
@@ -341,7 +341,7 @@
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.25" ratioLeft="250" ratioRight="750" relationship="2" relative="topLeft"/>
 <info folder="true" part="bottom" ratio="0.9361234" ratioLeft="425" ratioRight="29" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.ui.views.ProblemView" appearance="2" expanded="2">
+<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>
 <page content="org.eclipse.ui.views.TaskList" label="Tasks"/>
 <page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
@@ -360,7 +360,7 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@dc40b1" ratio="0.9312796" ratioLeft="393" ratioRight="29" relationship="4" relative="org.eclipse.ui.editorss">
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@dc40b1" ratio="0.90102386" ratioLeft="264" ratioRight="29" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.views.PropertySheet" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
@@ -376,168 +376,165 @@
 <navigationHistory>
 <editors>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/mainTP1/src/mainTP1.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/mainTP1/src/validacionesTP1.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/mainTP1/src/validacionesTP1.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/mainTP1/src/menusTP1.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/mainTP1/src/calculosTP1.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/mainTP1/src/validacionesTP1.h"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/mainTP1/src/menusTP1.h"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/mainTP1/src/menusTP1.c"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/mainTP1/src/calculosTP1.h"/>
 <editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/mainTP1/src/calculosTP1.c"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/mainTP1/src/validacionesTP1.h"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/mainTP1/src/validacionesTP1.c"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/mainTP1/src/validacionesTP1.c"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/mainTP1/src/calculosTP1.c"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/mainTP1/src/validacionesTP1.h"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/mainTP1/src/menusTP1.c"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/mainTP1/src/calculosTP1.h"/>
-<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/mainTP1/src/menusTP1.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/mainTP1/src/mainTP1.c"/>
 </editors>
-<item historyLabel="calculosTP1.h" index="3">
-<position info="not_deleted" x="174" y="0"/>
-</item>
-<item historyLabel="calculosTP1.c" index="4">
-<position info="not_deleted" x="381" y="0"/>
-</item>
-<item historyLabel="validacionesTP1.c" index="6">
-<position info="not_deleted" x="842" y="0"/>
-</item>
-<item historyLabel="calculosTP1.h" index="3">
-<position info="not_deleted" x="174" y="0"/>
-</item>
-<item historyLabel="calculosTP1.c" index="4">
-<position info="not_deleted" x="381" y="0"/>
-</item>
-<item historyLabel="validacionesTP1.h" index="5">
-<position info="not_deleted" x="195" y="0"/>
-</item>
-<item historyLabel="validacionesTP1.c" index="6">
-<position info="not_deleted" x="842" y="0"/>
-</item>
-<item historyLabel="menusTP1.h" index="1">
-<position info="not_deleted" x="271" y="0"/>
-</item>
-<item historyLabel="mainTP1.c" index="0">
-<position info="not_deleted" x="86" y="0"/>
-</item>
-<item historyLabel="menusTP1.h" index="1">
-<position info="not_deleted" x="271" y="0"/>
-</item>
-<item historyLabel="validacionesTP1.c" index="6">
-<position info="not_deleted" x="842" y="0"/>
-</item>
-<item historyLabel="menusTP1.c" index="2">
-<position info="not_deleted" x="1292" y="0"/>
-</item>
-<item historyLabel="mainTP1.c" index="0">
-<position info="not_deleted" x="1262" y="0"/>
-</item>
-<item historyLabel="calculosTP1.c" index="4">
-<position info="not_deleted" x="318" y="0"/>
-</item>
-<item historyLabel="validacionesTP1.c" index="6">
-<position info="not_deleted" x="842" y="0"/>
-</item>
-<item historyLabel="mainTP1.c" index="0">
-<position info="not_deleted" x="1262" y="0"/>
-</item>
-<item historyLabel="validacionesTP1.c" index="7">
-<position info="not_deleted" x="248" y="0"/>
-</item>
-<item historyLabel="mainTP1.c" index="0">
-<position info="not_deleted" x="1391" y="0"/>
-</item>
-<item historyLabel="calculosTP1.c" index="8">
-<position info="not_deleted" x="318" y="0"/>
-</item>
-<item historyLabel="validacionesTP1.h" index="9">
-<position info="not_deleted" x="195" y="0"/>
-</item>
-<item historyLabel="validacionesTP1.c" index="7">
-<position info="not_deleted" x="248" y="0"/>
-</item>
-<item historyLabel="menusTP1.c" index="10">
-<position info="not_deleted" x="1041" y="0"/>
-</item>
-<item historyLabel="calculosTP1.c" index="8">
-<position info="not_deleted" x="318" y="0"/>
-</item>
-<item historyLabel="validacionesTP1.h" index="9">
-<position info="not_deleted" x="195" y="0"/>
-</item>
-<item historyLabel="validacionesTP1.c" index="7">
-<position info="not_deleted" x="796" y="0"/>
-</item>
-<item historyLabel="calculosTP1.h" index="11">
-<position info="not_deleted" x="174" y="0"/>
-</item>
-<item historyLabel="menusTP1.h" index="12">
-<position info="not_deleted" x="271" y="0"/>
-</item>
-<item historyLabel="mainTP1.c" index="0">
-<position info="not_deleted" x="547" y="0"/>
-</item>
-<item historyLabel="validacionesTP1.c" index="7">
-<position info="not_deleted" x="796" y="0"/>
-</item>
-<item historyLabel="mainTP1.c" index="0">
-<position info="not_deleted" x="1163" y="0"/>
-</item>
-<item historyLabel="validacionesTP1.h" index="9">
-<position info="not_deleted" x="193" y="0"/>
-</item>
-<item historyLabel="validacionesTP1.c" index="7">
-<position info="not_deleted" x="516" y="0"/>
-</item>
-<item historyLabel="validacionesTP1.h" index="9">
-<position info="not_deleted" x="178" y="0"/>
-</item>
-<item historyLabel="validacionesTP1.c" index="7">
-<position info="not_deleted" x="516" y="0"/>
-</item>
-<item historyLabel="validacionesTP1.h" index="9">
+<item historyLabel="validacionesTP1.h" index="2">
 <position/>
 </item>
-<item historyLabel="validacionesTP1.c" index="7">
+<item historyLabel="validacionesTP1.c" index="1">
 <position info="not_deleted" x="817" y="0"/>
 </item>
-<item historyLabel="validacionesTP1.h" index="9">
+<item historyLabel="validacionesTP1.h" index="2">
 <position/>
 </item>
 <item historyLabel="mainTP1.c" index="0">
 <position info="not_deleted" x="1441" y="0"/>
 </item>
-<item historyLabel="validacionesTP1.c" index="7">
+<item historyLabel="validacionesTP1.c" index="1">
 <position info="not_deleted" x="817" y="0"/>
 </item>
-<item historyLabel="validacionesTP1.c" index="7">
+<item historyLabel="validacionesTP1.c" index="1">
 <position info="not_deleted" x="270" y="0"/>
 </item>
-<item historyLabel="validacionesTP1.c" index="7">
+<item historyLabel="validacionesTP1.c" index="1">
 <position info="not_deleted" x="491" y="0"/>
 </item>
-<item historyLabel="validacionesTP1.h" index="9">
+<item historyLabel="validacionesTP1.h" index="2">
 <position info="not_deleted" x="169" y="0"/>
 </item>
-<item historyLabel="validacionesTP1.c" index="7">
+<item historyLabel="validacionesTP1.c" index="1">
 <position info="not_deleted" x="547" y="0"/>
 </item>
-<item historyLabel="validacionesTP1.h" index="9">
+<item historyLabel="validacionesTP1.h" index="2">
 <position info="not_deleted" x="193" y="0"/>
 </item>
-<item historyLabel="validacionesTP1.c" index="7">
+<item historyLabel="validacionesTP1.c" index="1">
 <position info="not_deleted" x="547" y="0"/>
 </item>
-<item historyLabel="validacionesTP1.h" index="9">
+<item historyLabel="validacionesTP1.h" index="2">
 <position info="not_deleted" x="193" y="0"/>
 </item>
 <item historyLabel="mainTP1.c" index="0">
 <position info="not_deleted" x="763" y="0"/>
 </item>
-<item historyLabel="menusTP1.h" index="12">
+<item historyLabel="menusTP1.h" index="3">
 <position info="not_deleted" x="271" y="0"/>
 </item>
-<item historyLabel="validacionesTP1.h" index="9">
+<item historyLabel="validacionesTP1.h" index="2">
 <position info="not_deleted" x="193" y="0"/>
 </item>
-<item active="true" historyLabel="validacionesTP1.c" index="7">
+<item historyLabel="validacionesTP1.c" index="1">
 <position info="not_deleted" x="547" y="0"/>
+</item>
+<item historyLabel="validacionesTP1.c" index="1">
+<position/>
+</item>
+<item historyLabel="calculosTP1.h" index="4">
+<position info="not_deleted" x="456" y="0"/>
+</item>
+<item historyLabel="validacionesTP1.h" index="5">
+<position info="not_deleted" x="651" y="0"/>
+</item>
+<item historyLabel="menusTP1.h" index="6">
+<position info="not_deleted" x="919" y="0"/>
+</item>
+<item historyLabel="menusTP1.c" index="7">
+<position info="not_deleted" x="1044" y="0"/>
+</item>
+<item historyLabel="menusTP1.h" index="6">
+<position info="not_deleted" x="746" y="0"/>
+</item>
+<item historyLabel="validacionesTP1.h" index="5">
+<position info="not_deleted" x="262" y="0"/>
+</item>
+<item historyLabel="calculosTP1.h" index="4">
+<position info="not_deleted" x="700" y="0"/>
+</item>
+<item historyLabel="menusTP1.c" index="7">
+<position info="not_deleted" x="1044" y="0"/>
+</item>
+<item historyLabel="menusTP1.h" index="6">
+<position info="not_deleted" x="283" y="0"/>
+</item>
+<item historyLabel="menusTP1.c" index="7">
+<position info="not_deleted" x="1044" y="0"/>
+</item>
+<item historyLabel="calculosTP1.h" index="4">
+<position info="not_deleted" x="700" y="0"/>
+</item>
+<item historyLabel="validacionesTP1.h" index="5">
+<position info="not_deleted" x="262" y="0"/>
+</item>
+<item historyLabel="calculosTP1.c" index="8">
+<position info="not_deleted" x="318" y="0"/>
+</item>
+<item historyLabel="validacionesTP1.c" index="1">
+<position/>
+</item>
+<item historyLabel="mainTP1.c" index="9">
+<position info="not_deleted" x="763" y="0"/>
+</item>
+<item historyLabel="menusTP1.c" index="7">
+<position info="not_deleted" x="1077" y="0"/>
+</item>
+<item historyLabel="mainTP1.c" index="9">
+<position info="not_deleted" x="763" y="0"/>
+</item>
+<item historyLabel="validacionesTP1.c" index="1">
+<position/>
+</item>
+<item historyLabel="mainTP1.c" index="9">
+<position info="not_deleted" x="763" y="0"/>
+</item>
+<item historyLabel="validacionesTP1.c" index="1">
+<position/>
+</item>
+<item historyLabel="mainTP1.c" index="9">
+<position info="not_deleted" x="763" y="0"/>
+</item>
+<item historyLabel="menusTP1.c" index="7">
+<position info="not_deleted" x="1077" y="0"/>
+</item>
+<item historyLabel="validacionesTP1.c" index="1">
+<position/>
+</item>
+<item historyLabel="mainTP1.c" index="9">
+<position info="not_deleted" x="1406" y="11"/>
+</item>
+<item historyLabel="menusTP1.c" index="7">
+<position info="not_deleted" x="977" y="0"/>
+</item>
+<item historyLabel="calculosTP1.c" index="8">
+<position info="not_deleted" x="318" y="0"/>
+</item>
+<item historyLabel="validacionesTP1.c" index="1">
+<position/>
+</item>
+<item historyLabel="mainTP1.c" index="9">
+<position info="not_deleted" x="1406" y="11"/>
+</item>
+<item historyLabel="validacionesTP1.c" index="1">
+<position info="not_deleted" x="130" y="0"/>
+</item>
+<item historyLabel="mainTP1.c" index="9">
+<position info="not_deleted" x="1363" y="0"/>
+</item>
+<item historyLabel="menusTP1.c" index="7">
+<position info="not_deleted" x="977" y="0"/>
+</item>
+<item historyLabel="calculosTP1.c" index="8">
+<position info="not_deleted" x="318" y="0"/>
+</item>
+<item active="true" historyLabel="validacionesTP1.c" index="1">
+<position info="not_deleted" x="130" y="0"/>
 </item>
 </navigationHistory>
 <input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
@@ -545,8 +542,12 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
+<trimArea IMemento.internal.id="16384">
+<trimItem IMemento.internal.id="topLeft"/>
+</trimArea>
 <trimArea IMemento.internal.id="131072">
 <trimItem IMemento.internal.id="topRight"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.editorss"/>
 </trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
@@ -555,6 +556,7 @@
 <trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
+<trimItem IMemento.internal.id="org.eclipse.ui.internal.ViewStack@dc40b1"/>
 </trimArea>
 </trimLayout>
 </window>
